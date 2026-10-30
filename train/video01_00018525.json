@@ -2,7 +2,7 @@
   "annotations": [
     {
       "bbox": {
-        "height": 155,
+        "height": 187,
         "width": 254,
         "x": 58,
         "y": 83
@@ -25,7 +25,7 @@
       }
     }
   ],
-  "edited_at": "2026-10-26T13:21:50+09:00",
+  "edited_at": "2026-10-30T14:17:29+09:00",
   "height": 480,
   "image": "video01_00018525.png",
   "source": "manual",

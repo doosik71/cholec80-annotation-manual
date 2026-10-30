@@ -2,30 +2,30 @@
   "annotations": [
     {
       "bbox": {
-        "height": 171,
-        "width": 238,
+        "height": 226,
+        "width": 292,
         "x": 103,
         "y": 35
       },
       "tip": {
-        "x": 340,
-        "y": 192
+        "x": 394,
+        "y": 251
       }
     },
     {
       "bbox": {
         "height": 68,
-        "width": 196,
-        "x": 493,
+        "width": 216,
+        "x": 473,
         "y": 264
       },
       "tip": {
-        "x": 493,
-        "y": 270
+        "x": 473,
+        "y": 304
       }
     }
   ],
-  "edited_at": "2026-10-26T11:52:12+09:00",
+  "edited_at": "2026-10-30T14:12:45+09:00",
   "height": 480,
   "image": "video01_00017175.png",
   "source": "manual",

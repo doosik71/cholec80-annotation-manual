@@ -2,18 +2,18 @@
   "annotations": [
     {
       "bbox": {
-        "height": 127,
-        "width": 278,
+        "height": 140,
+        "width": 313,
         "x": 110,
         "y": 34
       },
       "tip": {
-        "x": 387,
-        "y": 160
+        "x": 417,
+        "y": 167
       }
     }
   ],
-  "edited_at": "2026-10-26T11:38:27+09:00",
+  "edited_at": "2026-10-30T10:17:01+09:00",
   "height": 480,
   "image": "video01_00009825.png",
   "source": "manual",
