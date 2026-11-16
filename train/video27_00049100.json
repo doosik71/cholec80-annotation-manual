@@ -1,0 +1,33 @@
+{
+  "annotations": [
+    {
+      "bbox": {
+        "height": 144,
+        "width": 337,
+        "x": 350,
+        "y": 208
+      },
+      "tip": {
+        "x": 356,
+        "y": 249
+      }
+    },
+    {
+      "bbox": {
+        "height": 151,
+        "width": 202,
+        "x": 407,
+        "y": 32
+      },
+      "tip": {
+        "x": 411,
+        "y": 176
+      }
+    }
+  ],
+  "edited_at": "2026-11-13T18:03:00+09:00",
+  "height": 480,
+  "image": "video27_00049100.png",
+  "source": "manual",
+  "width": 736
+}
